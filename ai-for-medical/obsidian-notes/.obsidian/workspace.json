@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "d1b944c3dfa0a540",
+    "type": "split",
+    "children": [
+      {
+        "id": "242f4e27446a756a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "295e6082d8465796",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eed200c738b64c08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Midterm Project Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a43702736b3a0afb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Midterm Project Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "873b982b76d495ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cc3e8acf7a60911",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1acd07faa1d0d79",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d8329569924e3196",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "11e76da06fd09056",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4cdb9e53e6f0b23a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b56f2a384eb9153",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd7d87e97705a841",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Midterm Project Overview.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "25b5284069a79a7e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Midterm Project Overview.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0cd7fdd02108d388",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ef3c6efb67cd2631",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Midterm Project Overview.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "eed200c738b64c08",
+  "lastOpenFiles": [
+    "Images/Pasted image 20240903134600.png",
+    "Lecture 2.md",
+    "Images",
+    "Lecture 1.md",
+    "Midterm Project Overview.md",
+    "Images/Screenshot 2024-09-10 at 1.26.30 PM.png",
+    "Images/Screenshot 2024-09-10 at 1.21.38 PM.png",
+    "Images/Screenshot 2024-09-10 at 1.20.35 PM.png",
+    "Images/Screenshot 2024-09-10 at 1.18.44 PM.png",
+    "Images/Screenshot 2024-09-10 at 1.07.12 PM.png",
+    "Images/Screenshot 2024-09-10 at 1.06.02 PM.png",
+    "Images/Pasted image 20240903140225.png",
+    "Images/Pasted image 20240903135810.png",
+    "Images/Pasted image 20240903135756.png",
+    "Images/Pasted image 20240903134647.png",
+    "Welcome.md"
+  ]
+}
