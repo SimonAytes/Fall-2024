@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "242f4e27446a756a",
+        "id": "3f707bdfa555bff3",
         "type": "tabs",
         "children": [
           {
-            "id": "295e6082d8465796",
+            "id": "6637f62bdbf5e9e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eed200c738b64c08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Midterm Project Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a43702736b3a0afb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Midterm Project Overview.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Midterm Project Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Midterm Project Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Midterm Project Overview.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,13 +138,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eed200c738b64c08",
+  "active": "d1acd07faa1d0d79",
   "lastOpenFiles": [
+    "Lecture 1.md",
+    "Midterm Project Overview.md",
+    "September 26, 2024.md",
     "Images/Pasted image 20240903134600.png",
     "Lecture 2.md",
     "Images",
-    "Lecture 1.md",
-    "Midterm Project Overview.md",
     "Images/Screenshot 2024-09-10 at 1.26.30 PM.png",
     "Images/Screenshot 2024-09-10 at 1.21.38 PM.png",
     "Images/Screenshot 2024-09-10 at 1.20.35 PM.png",
@@ -187,7 +155,6 @@
     "Images/Pasted image 20240903140225.png",
     "Images/Pasted image 20240903135810.png",
     "Images/Pasted image 20240903135756.png",
-    "Images/Pasted image 20240903134647.png",
     "Welcome.md"
   ]
 }
